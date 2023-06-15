@@ -1,5 +1,5 @@
 # Doggo Dash
-Doggo Dash is a multi page appication which allows users to register as a dog owner looking for dog sitters, or as a dog sitter looking to provide their services. 
+Doggo Dash is a multi page application which allows users to register as a dog owner looking for dog sitters, or as a dog sitter looking to provide their services. 
 
 ## Project Features
 - A user register for an account as a dog owner or dog sitter
