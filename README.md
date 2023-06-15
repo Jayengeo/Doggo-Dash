@@ -1,10 +1,10 @@
 # Doggo Dash
-Doggo Dash is a multi page application which allows users to register as a dog owner looking for dog sitters, or as a dog sitter looking to provide their services. 
+Doggo Dash is a multi-page application which allows users to register as a dog owner looking for dog sitters, or as a dog sitter looking to provide their services. 
 
 ## Project Features
 - A user register for an account as a dog owner or dog sitter
 - A user who signed up as a dog owner can message and book dog sitters
-- A user who signed up as a dog owner can search for dog sitters in their area and apply filters such city and price range
+- A user who signed up as a dog owner can search for dog sitters in their area and apply filters such as city and price range
 
 !["Search Page"](https://github.com/Jayengeo/Scheduler/assets/103899466/6ab2aa2f-9540-465a-a708-5f0435d73cf9)
 
@@ -21,7 +21,7 @@ Doggo Dash is a multi page application which allows users to register as a dog o
 - Socket.io
 - Auth0
 - Formik
-- Google Maps Geocoding Api
+- Google Maps Geocoding API
 
 ## Setup
 
